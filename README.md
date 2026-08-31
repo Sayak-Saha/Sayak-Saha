@@ -60,31 +60,37 @@ Search the catalogue, explore seasonal releases, browse rankings, apply detailed
 
 ---
 
-## ☔ Rainy Season — Discord Community
+## ☔ RainySeason
 
-**Founder & Owner of [Rainy Season](https://rainyseason.vercel.app/)** — a cozy Discord community for anime, gaming, programming, art, music, writing, and casual conversation.
+**Creator and Owner of [RainySeason](https://rainyseason.vercel.app/) — a Discord analytics and community platform built to help you explore server activity, member engagement, and community trends.**
+
+> **Discord analytics · AI assistant · 8,800+ members · 27K+ guild tags**
 
 <p align="center">
   <a href="https://rainyseason.vercel.app/">
     <img
       src="https://goscreenapi.com/thumb/rainyseason.vercel.app"
-      alt="Rainy Season Discord Community website preview"
+      alt="RainySeason dashboard preview"
       width="900"
     />
   </a>
 </p>
 
-> **8,800+ members · 1,900+ online · 27K+ guild tags**
+Explore server activity, member engagement, channel usage, activity patterns, user streaks, and sentiment trends through the web dashboard. Discover guild tags, use the AI assistant, or join the Rainy Season Discord community for anime, gaming, programming, art, music, writing, and casual conversation.
 
 **Highlights**
 
-- 💧 Custom **`rain` Discord Server Tag**
-- 🤖 Custom **Rainy AI** chat bot
-- 🎧 Music sessions, rain radios, and chill playlists
-- 🏷️ **27K+ guild tag list** with `/tag search` and `/tag add`
-- 🎨 Art, writing, and aesthetic spaces
-- 🎌 Anime & Manga
-- 🎮 Gaming
-- 💻 Programming
+* 📊 Interactive **Discord analytics dashboard**
+* 👥 Member and community activity analytics
+* 💬 Message activity, channel usage, and engagement insights
+* 🕐 **7×24 activity heatmaps** and user activity streaks
+* 🧠 **VADER sentiment analysis** and daily sentiment trends
+* 🤖 AI-powered Discord assistant with multi-model fallback
+* 🔎 **27K+ guild tag discovery** with search and validation
+* 🛡️ Automated spam detection and moderation
+* 🎲 Lucky-member role automation and Hall of Fame
+* 🔐 Member verification and community management tools
+* 💾 MongoDB-backed Discord data ingestion and analytics
+* ☔ **Rainy Season Discord community** for anime, gaming, programming, art, music, writing, and casual conversation
 
-[🌐 Rainy Season Website](https://rainyseason.vercel.app/) · [💬 Join the Discord Community](https://discord.com/servers/rainy-season-27k-guild-tags-1369397376175050863)
+[🌐 Open RainySeason Dashboard](https://rainyseason.vercel.app/) · [💬 Join the Rainy Season Discord](https://discord.com/servers/rainy-season-27k-guild-tags-1369397376175050863)
