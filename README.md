@@ -33,16 +33,28 @@
 
 > **30,000+ anime · Personalised recommendations · Advanced discovery**
 
-Search the catalogue, explore seasonal releases, browse rankings, use detailed filters, or get personalised recommendations from your anime list on **MyAnimeList** or **AniList**.
+<p align="center">
+  <a href="https://anihuntr.xyz/">
+    <img
+      src="https://goscreenapi.com/thumb/anihuntr.xyz"
+      alt="AniHuntr website preview"
+      width="900"
+    />
+  </a>
+</p>
+
+Search the catalogue, explore seasonal releases, browse rankings, apply detailed filters, or get personalised recommendations based on your anime list from **MyAnimeList** or **AniList**.
 
 **Highlights**
-- 📚 30,000+ anime titles
-- 🎯 Personalised recommendations
-- 🔎 Advanced filtering
-- 📅 Seasonal anime & upcoming releases
-- 🏆 Rankings by rank, score, popularity, members & favorites
-- 📖 Detailed anime pages with statistics, related titles & recommendations
-- 🚫 No AniHuntr account required
+
+* 📚 30,000+ anime titles
+* 🎯 Personalised recommendations
+* 🔎 Advanced filtering and discovery
+* 📅 Seasonal anime and upcoming releases
+* 🏆 Rankings by rank, score, popularity, members, and favorites
+* 📖 Detailed anime pages with statistics, related titles, and recommendations
+* 🔗 MyAnimeList and AniList integration
+* 🚫 No AniHuntr account required
 
 [🌐 Open AniHuntr](https://anihuntr.xyz/)
 
@@ -52,23 +64,34 @@ Search the catalogue, explore seasonal releases, browse rankings, use detailed f
 
 **Founder & Owner of [Rainy Season](https://rainyseason.vercel.app/)** — a cozy Discord community for creatives, quiet thinkers, and anyone looking for a chill place to hang out, connect, and relax.
 
+<p align="center">
+  <a href="https://rainyseason.vercel.app/">
+    <img
+      src="https://goscreenapi.com/thumb/rainyseason.vercel.app"
+      alt="Rainy Season Discord Community website preview"
+      width="900"
+    />
+  </a>
+</p>
+
 > **8,800+ members · 1,900+ online · 27K+ guild tags**
 
-A relaxed community built around anime, gaming, programming, art, music, writing, and casual conversation.
+A relaxed Discord community built around **anime, gaming, programming, art, music, writing, and casual conversation**.
 
 **Highlights**
-- 💧 Custom Rainy Discord Server Tag
-- 💬 Casual conversations & deep chats
-- 🎨 Art, writing & aesthetic spaces
-- 🎵 Music sessions, rain radios & chill playlists
-- 💤 AFK-friendly community with no pressure to stay active
-- 🎨 Colorful gradient roles & seasonal vibes
-- 🔎 27K+ guild tag list with `/tag search` & `/tag add`
-- 🤖 Custom Rainy AI chat bot
-- 🎌 Anime & Manga
-- 🎮 Gaming
-- 💻 Programming
+
+* 💧 Custom **`rain` Discord Server Tag**
+* 💬 Casual conversations and deep chats
+* 🎨 Art, writing, and aesthetic spaces
+* 🎧 Music sessions, rain radios, and chill playlists
+* 💤 AFK-friendly community — come and go as you like
+* 🌧️ Colorful gradient roles, seasonal vibes, and a welcoming atmosphere
+* 🏷️ **27K+ guild tag list** with `/tag search` and `/tag add`
+* 🤖 Custom **Rainy AI** chat bot
+* 🎌 Anime & Manga
+* 🎮 Gaming
+* 💻 Programming
 
 **No pressure. No chaos. Just rain, rhythm, and good company.**
 
-[🌐 Website](https://rainyseason.vercel.app/) · [💧 Join Rainy Season](https://discord.com/servers/rainy-season-27k-guild-tags-1369397376175050863)
+[🌐 Rainy Season Website](https://rainyseason.vercel.app/) · [💧 Join the Discord Community](https://discord.com/servers/rainy-season-27k-guild-tags-1369397376175050863)
