@@ -62,7 +62,7 @@ Search the catalogue, explore seasonal releases, browse rankings, apply detailed
 
 ## ☔ Rainy Season — Discord Community
 
-**Founder & Owner of [Rainy Season](https://rainyseason.vercel.app/)** — a cozy Discord community for creatives, quiet thinkers, and anyone looking for a chill place to hang out, connect, and relax.
+**Founder & Owner of [Rainy Season](https://rainyseason.vercel.app/)** — a cozy Discord community for anime, gaming, programming, art, music, writing, and casual conversation.
 
 <p align="center">
   <a href="https://rainyseason.vercel.app/">
@@ -76,22 +76,15 @@ Search the catalogue, explore seasonal releases, browse rankings, apply detailed
 
 > **8,800+ members · 1,900+ online · 27K+ guild tags**
 
-A relaxed Discord community built around **anime, gaming, programming, art, music, writing, and casual conversation**.
-
 **Highlights**
 
-* 💧 Custom **`rain` Discord Server Tag**
-* 💬 Casual conversations and deep chats
-* 🎨 Art, writing, and aesthetic spaces
-* 🎧 Music sessions, rain radios, and chill playlists
-* 💤 AFK-friendly community — come and go as you like
-* 🌧️ Colorful gradient roles, seasonal vibes, and a welcoming atmosphere
-* 🏷️ **27K+ guild tag list** with `/tag search` and `/tag add`
-* 🤖 Custom **Rainy AI** chat bot
-* 🎌 Anime & Manga
-* 🎮 Gaming
-* 💻 Programming
+- 💧 Custom **`rain` Discord Server Tag**
+- 🤖 Custom **Rainy AI** chat bot
+- 🎧 Music sessions, rain radios, and chill playlists
+- 🏷️ **27K+ guild tag list** with `/tag search` and `/tag add`
+- 🎨 Art, writing, and aesthetic spaces
+- 🎌 Anime & Manga
+- 🎮 Gaming
+- 💻 Programming
 
-**No pressure. No chaos. Just rain, rhythm, and good company.**
-
-[🌐 Rainy Season Website](https://rainyseason.vercel.app/) · [💧 Join the Discord Community](https://discord.com/servers/rainy-season-27k-guild-tags-1369397376175050863)
+[🌐 Rainy Season Website](https://rainyseason.vercel.app/) · [💬 Join the Discord Community](https://discord.com/servers/rainy-season-27k-guild-tags-1369397376175050863)
