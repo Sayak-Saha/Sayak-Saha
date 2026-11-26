@@ -36,8 +36,10 @@
 <p align="center">
   <a href="https://anihuntr.xyz/">
     <img
-      <img src="https://shotwolf.com/get/width/800/https://anihuntr.xyz/"
-     alt="AniHuntr website preview" width="900">
+      src="https://api.microlink.io/?url=https%3A%2F%2Fanihuntr.xyz%2F&screenshot=true&meta=false&embed=screenshot.url"
+      alt="AniHuntr website preview"
+      width="900"
+    />
   </a>
 </p>
 
@@ -67,8 +69,10 @@ Search the catalogue, explore seasonal releases, browse rankings, apply detailed
 <p align="center">
   <a href="https://rainyseason.vercel.app/">
     <img
-      <img src="https://shotwolf.com/get/width/800/https://rainyseason.vercel.app/"
-       alt="RainySeason dashboard preview" width="900">
+      src="https://api.microlink.io/?url=https%3A%2F%2Frainyseason.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url"
+      alt="RainySeason dashboard preview"
+      width="900"
+    />
   </a>
 </p>
 
