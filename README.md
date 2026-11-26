@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://anihuntr.xyz/">
     <img
-      src="https://goscreenapi.com/thumb/anihuntr.xyz"
+      src="https://image.thum.io/get/width/1200/crop/800/https://anihuntr.xyz/"
       alt="AniHuntr website preview"
       width="900"
     />
@@ -69,7 +69,7 @@ Search the catalogue, explore seasonal releases, browse rankings, apply detailed
 <p align="center">
   <a href="https://rainyseason.vercel.app/">
     <img
-      src="https://goscreenapi.com/thumb/rainyseason.vercel.app"
+      src="https://image.thum.io/get/width/1200/crop/800/https://rainyseason.vercel.app/"
       alt="RainySeason dashboard preview"
       width="900"
     />
