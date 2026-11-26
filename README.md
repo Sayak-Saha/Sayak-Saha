@@ -38,7 +38,6 @@
     <img
       <img src="https://shotwolf.com/get/width/800/https://anihuntr.xyz/"
      alt="AniHuntr website preview" width="900">
-    />
   </a>
 </p>
 
@@ -70,7 +69,6 @@ Search the catalogue, explore seasonal releases, browse rankings, apply detailed
     <img
       <img src="https://shotwolf.com/get/width/800/https://rainyseason.vercel.app/"
        alt="RainySeason dashboard preview" width="900">
-    />
   </a>
 </p>
 
